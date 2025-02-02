@@ -5,7 +5,7 @@
 I'm currently a Computer Science student at University of Wroclaw. I'm a passionate software developer, eager to learn and create projects that people will find useful.
 I love solving real life problems with code, learning new technologies and gaining experience with commercial software.
 
-## 🧰 Technologies and tools 
+**🧰 Technologies and tools **
 
 <img width="30px" height="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img width="30px" height="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
