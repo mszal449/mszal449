@@ -23,4 +23,4 @@ I love solving real life problems with code, learning new technologies and gaini
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mszal449&theme=dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=mszal449&theme=dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
