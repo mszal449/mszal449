@@ -21,6 +21,4 @@ I love solving real life problems with code, learning new technologies and gaini
 ### Currently Working On
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=mszal449&theme=dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mszal449&langs_count=8&theme=dark&&show_icons=true)
