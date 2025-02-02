@@ -21,7 +21,9 @@ I love solving real life problems with code, learning new technologies and gaini
           
 ## 💡 Currently Working On
 🥊 Notes-styled minimalist sport tracker
+<br/>
 🛠️ Constantly learning how to improve coding skills
+<br/>
 💻 Searching for first commercial experience
 
 
