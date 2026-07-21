@@ -1,9 +1,13 @@
 # Hello, I'm Maciek Szałasz👋
 
-**`Computer Science Student`** **`Passionate Software Developer`**
+**`Software Developer at Nokia`** **`Computer Science Student`**
 
-I'm currently a Computer Science student at University of Wroclaw. I'm a passionate software developer, eager to learn and create projects that people will find useful.
-I love solving real life problems with code, learning new technologies and gaining experience with commercial software development.
+I'm currently Software Developer at Nokia and a Computer Science student at University of Wroclaw.
+I'm a passionate software developer, eager to learn and create projects that solve real life problems.
+I love learning new technologies, building apps for my own use and seeing progress in my coding abilities.
+
+Lately I've been learning Kubernetes for app deployment and server management.
+I mainly use Golang & Python to build backend and fullstack applications
 
 **🧰 Technologies and tools**
 
@@ -20,11 +24,8 @@ I love solving real life problems with code, learning new technologies and gaini
 <br/>
           
 ## 💡 Currently Working On
-🥊 Notes-styled minimalist sport tracker
-<br/>
-🛠️ Constantly learning how to improve coding skills
-<br/>
-💻 Searching for first commercial experience
+⏰ Light and easy to use Alarm clock app as my first SwiftUI project.
+🖥️ Homelab and Kubernetes management.
 
 
 **📧 How to reach me m.szalasz@gmail.com**
