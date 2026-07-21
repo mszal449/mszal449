@@ -22,7 +22,7 @@ I mainly use Golang & Python to build backend and fullstack applications
 <br/>
           
 ## 💡 Currently Working On
-⏰ Light and easy to use Alarm clock app as my first SwiftUI project.
+⏰ Light and easy to use Alarm clock app as my first SwiftUI project. <br/>
 🖥️ Homelab and Kubernetes management.
 
 
